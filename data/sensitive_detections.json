@@ -1,0 +1,90 @@
+[
+  {
+    "type": "mot_de_passe_probable",
+    "value": "ai_keylogger",
+    "start": 31,
+    "end": 43,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:35:05.321065"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "ai_keylogger",
+    "start": 28,
+    "end": 40,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:35:25.523462"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "Mathis1234",
+    "start": 5,
+    "end": 15,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:36:35.771649"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "ai_keylogger",
+    "start": 29,
+    "end": 41,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:36:45.894437"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "ai_keylogger",
+    "start": 28,
+    "end": 40,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:36:56.014800"
+  },
+  {
+    "type": "email",
+    "value": "mathis@gmail.com",
+    "start": 4,
+    "end": 20,
+    "method": "regex",
+    "timestamp": "2026-04-21T14:37:06.153891"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "morceaux.",
+    "start": 2,
+    "end": 11,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:37:36.617125"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "morceaux.",
+    "start": 7,
+    "end": 16,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:37:46.758744"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "physiologique",
+    "start": 24,
+    "end": 37,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:37:56.934352"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "alerts.json",
+    "start": 18,
+    "end": 29,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:39:17.410797"
+  },
+  {
+    "type": "mot_de_passe_probable",
+    "value": "ai_keylogger",
+    "start": 32,
+    "end": 44,
+    "method": "heuristique",
+    "timestamp": "2026-04-21T14:39:17.410797"
+  }
+]

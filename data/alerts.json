@@ -1,0 +1,145 @@
+[
+  {
+    "timestamp": "2026-04-21T14:28:48.505849",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:28:48.487078",
+      "inter_key_delay": 10.7232,
+      "key_type": "alphanum",
+      "burst_length": 1,
+      "window_title": "sentiments.json - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:30:56.637134",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:30:56.603459",
+      "inter_key_delay": 17.7658,
+      "key_type": "alphanum",
+      "burst_length": 1,
+      "window_title": "log.txt - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:32:03.442844",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:32:03.396004",
+      "inter_key_delay": 24.2069,
+      "key_type": "special",
+      "burst_length": 1,
+      "window_title": "log.txt - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:32:48.543206",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:32:48.514590",
+      "inter_key_delay": 7.4288,
+      "key_type": "special",
+      "burst_length": 1,
+      "window_title": "log.txt - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:33:03.438637",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:33:03.360631",
+      "inter_key_delay": 7.9652,
+      "key_type": "alphanum",
+      "burst_length": 1,
+      "window_title": "ChatGPT - SIEM - Google Chrome",
+      "process_name": "chrome.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:35:11.537377",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:35:11.511638",
+      "inter_key_delay": 0.1516,
+      "key_type": "special",
+      "burst_length": 45,
+      "window_title": "secret.key - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:35:11.913531",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:35:11.883429",
+      "inter_key_delay": 0.0822,
+      "key_type": "special",
+      "burst_length": 49,
+      "window_title": "secret.key - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:35:12.979452",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:35:12.960944",
+      "inter_key_delay": 0.2312,
+      "key_type": "special",
+      "burst_length": 57,
+      "window_title": "secret.key - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:36:22.957419",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:36:22.925132",
+      "inter_key_delay": 57.9643,
+      "key_type": "alphanum",
+      "burst_length": 1,
+      "window_title": "\u25cf log.txt - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:36:40.145413",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:36:40.116945",
+      "inter_key_delay": 7.6935,
+      "key_type": "special",
+      "burst_length": 1,
+      "window_title": "\u25cf log.txt - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  },
+  {
+    "timestamp": "2026-04-21T14:39:15.084775",
+    "type": "anomalie_frappe",
+    "details": {
+      "timestamp": "2026-04-21T14:39:15.060097",
+      "inter_key_delay": 75.7518,
+      "key_type": "special",
+      "burst_length": 1,
+      "window_title": "alerts.json - ai_keylogger - Visual Studio Code",
+      "process_name": "Code.exe"
+    },
+    "message": "Comportement de frappe anormal detecte"
+  }
+]
